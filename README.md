@@ -22,6 +22,7 @@ const mailbox = `${NameList[randomIndex]}${randomNum}@${domains.length > 1 ? sel
 
 ---
 ## 增加密碼保護
+![](https://raw.githubusercontent.com/KKKKKCAT/vmail-public-edit/main/pass_example.png)
 1. 修改_h.tsx：```apps/remix/app/routes/_h.tsx```
 - 密碼設定請修改第15行 ```if (password === "pass") {``` 默認密碼為pass
 ```
