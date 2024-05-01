@@ -71,3 +71,4 @@ export default function HomeLayout() {
   );
 }
 ```
+完整例子：https://github.com/KKKKKCAT/vmail-public-edit/blob/main/_h.tsx
