@@ -1,4 +1,4 @@
-# vmail-public-edit
+# vmail 個性化修改
 
 ## 改 vmail 生成的名稱 (生成規則為名稱+3位隨機數字)
 1. 創建namelist文件：```apps/remix/app/routes/namelist.ts```
