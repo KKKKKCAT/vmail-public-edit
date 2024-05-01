@@ -5,6 +5,7 @@
 ---
 
 ## 改 vmail 生成的名稱 (生成規則為名稱+3位隨機數字)
+![](https://raw.githubusercontent.com/KKKKKCAT/vmail-public-edit/main/namelist_example.png)
 1. 創建namelist文件：```apps/remix/app/routes/namelist.ts```
 - 完整例子：https://github.com/KKKKKCAT/vmail-public-edit/blob/main/namelist.ts
 
